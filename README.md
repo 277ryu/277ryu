@@ -1,8 +1,6 @@
-# Hi, I'm Friz!
+# Hello World!
 
-![Information Engineering @ UGM](https://readme-typing-svg.demolab.com/?lines=Information+Engineering+@+UGM)
+![I'm Nashmi](https://readme-typing-svg.demolab.com/?lines=I'm+Nashmi+)
 
 - Freshman in Information Engineering @ UGM
 - Interested in Full-Stack Development
-- I have cats
-- I sleep 8 hours
